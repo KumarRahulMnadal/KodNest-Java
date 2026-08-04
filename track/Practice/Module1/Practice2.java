@@ -1,9 +1,11 @@
 public class Practice2 {
   public static void main(String[] args) {
     System.out.println("Monday");
-    System.out.println("Tuesday"+"Wednesday");
+    System.out.print("Tuesday");
+    System.out.println("Wednesday");
     System.out.println("Thursday");
-    System.out.println("Friday"+"Saturday");
+    System.out.print("Friday");
+    System.out.println("Saturday");
     System.out.println("sunday");
   }
 }
