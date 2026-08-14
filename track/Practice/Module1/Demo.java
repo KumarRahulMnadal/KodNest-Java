@@ -1,6 +1,6 @@
 package Practice.Module1;
 
-public class Demo {
+public class Demo { 
     public static void main(String[] args) {
         String learnerName = "Ananya";
         int completedProblems = 25;
