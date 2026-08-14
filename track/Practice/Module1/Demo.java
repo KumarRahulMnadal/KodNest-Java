@@ -1,4 +1,4 @@
-package track.Practice.Module1;
+package Practice.Module1;
 
 public class Demo {
     public static void main(String[] args) {
